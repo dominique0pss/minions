@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://www.engeplus.com.br/cache/noticia/0111/0111135/meu-malvado-favorito-nas-telonas-de-novo.jpg?t=20170627160150);
+    background-size: cover;
+}
+
+
+p{
+    font-family: 'Protest Revolution', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.gru{
+    background-color: rgba(0, 0, 0, 0);
+    justify-content: end;
+   transition: 10s;
+  }
+
+.gru:hover{
+margin-left: 50em; background-color: rgba(0, 0, 0, 0.469);
+}
+
